@@ -1,0 +1,7 @@
+
+flask
+langchain
+langchain_community
+langchain_huggingface
+langchain_groq
+langgraph
